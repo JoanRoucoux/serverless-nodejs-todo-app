@@ -1,0 +1,8 @@
+{
+  "todoId": {
+    "presence": {
+      "allowEmpty": false
+    },
+    "type": "string"
+  }
+}
