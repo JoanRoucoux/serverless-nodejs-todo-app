@@ -69,13 +69,13 @@ serverless deploy
 [https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/todo/create](https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/todo/create)
 
 `POST delete todo -`
-[https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/task/delete](https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/task/delete)
+[https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/todo/delete](https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/todo/delete)
 
 `POST Get todo -`
-[https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/task](https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/task)
+[https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/todo](https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/todo)
 
 `POST update todo -`
-[https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/task/update](https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/task/update)
+[https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/todo/update](https://API_GATEWAY_ID.eu-west-3.amazonaws.com/dev/todo/update)
 
 Once you finished interacting with the services, you can delete the stack by running this command.
 
